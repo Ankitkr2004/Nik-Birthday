@@ -1,2 +1,2 @@
 # Nik-Birthday
-https://ankitkr2004.github.io/Nik-Birthday/tree/main/birthday
+https://ankitkr2004.github.io/Nik-Birthday/tree/main/Birthday
